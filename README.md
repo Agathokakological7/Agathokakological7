@@ -6,9 +6,9 @@
 
 
 
-- 🌱 I’m currently learning **flutter and laravel**
+- 🌱 I’m currently learning **react and rive**
 
-- 💬 Ask me about **codeigniter**
+- 💬 Ask me about **codeigniter , java and python **
 
 - 📫 How to reach me **etmohan7@gmail.com**
 
