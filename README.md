@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react and rive**
 
-- 💬 Ask me about **codeigniter , java and python **
+- 💬 Ask me about  **codeigniter , java and python**
 
 - 📫 How to reach me **etmohan7@gmail.com**
 
