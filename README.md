@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **etmohan7@gmail.com**
 
-- ⚡ Fun fact **It’s all 0’s and 1’s**
+- ⚡ **It’s all 0’s and 1’s**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
